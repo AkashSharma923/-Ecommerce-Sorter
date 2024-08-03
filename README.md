@@ -1,36 +1,8 @@
-# 🛒 Ecommerce-Sorter
+# React + Vite
 
-A modern e-commerce website with category sorting, better UI, and integrated with an API.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 🌟 Features
+Currently, two official plugins are available:
 
-- 📂 Category sorting system
-- 🎨 Improved user interface
-- 🌐 Fetches items from an API
-- ⏳ Loading state and "Nothing found" page
-
-## 🛠️ Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- React (or your preferred framework)
-
-## 🌍 API
-
-This project uses the [FakeStore API](https://fakestoreapi.in/api/products) to fetch product data.
-
-## 🚀 Getting Started
-
-### 📋 Prerequisites
-
-- Node.js installed on your machine
-- Git installed on your machine
-
-### 🛠️ Installation
-
-1. Clone the repository:
-
-```sh
-git clone https://github.com/your-username/Ecommerce-Sorter.git
-cd Ecommerce-Sorter
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
